@@ -22,6 +22,20 @@ The dataset includes the following key columns (per 100,000 population):
 
 ---
 
+
+## 🧪 Jupyter Notebook EDA
+- Summary stats & null checks
+- Correlation analysis
+- Box plots, heatmaps, and scatter plots
+
+## 🌐 Dash Interactive Web App
+- Filters by year and WHO region
+- Live visualizations (bar, scatter, choropleth maps, etc.)
+- Global summary cards
+- Export options (CSV, Excel, PDF)
+- Mobile-friendly layout
+
+
 ## 🔍 Key Questions Explored
 
 - Which countries have the highest TB burden?
