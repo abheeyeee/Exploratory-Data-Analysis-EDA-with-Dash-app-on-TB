@@ -74,7 +74,6 @@ Interactive dashboard using Dash or Streamlit
 
 Add global summary statistics and maps
 
-Deploy on web (Heroku / Render)
 
 🙋‍♂️ Contact
 Feel free to reach out with questions or suggestions:
